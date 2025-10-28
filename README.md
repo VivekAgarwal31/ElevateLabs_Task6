@@ -66,9 +66,9 @@ To understand what makes a password strong by creating multiple passwords of var
 ---
 
 ## 📁 Deliverables
-- `PasswordStrengthAnalysis.pdf` — detailed analysis report.  
+- `AnalysisReport.pdf` — detailed analysis report.  
 - `README.md` — summary of observations and findings.  
-- `/screenshots/` — captured images from testing tools.  
+- `/Screenshots/` — captured images from testing tools.  
 
 ---
 
